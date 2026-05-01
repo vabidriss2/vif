@@ -1,0 +1,9 @@
+{
+  "name": "VIF_CORE Terminal",
+  "description": "Professional VIF system terminal and browser with neural integration, peer-to-peer data mesh, and advanced security protocols.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
